@@ -19,6 +19,7 @@
         "name": "next"
       }
     ],
+    "baseUrl": ".",// taka @/ k bad path de
     "paths": {
       "@/*": ["./src/*"]
     }
